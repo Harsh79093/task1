@@ -28,3 +28,4 @@ def calculator():
         return "Invalid operation selected."
     return f"The result of {num1} {operation_sign} {num2} = {result}"
 print(calculator())
+
